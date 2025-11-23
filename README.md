@@ -1,5 +1,3 @@
-![Image](./header.png)
-
 # IL Insurance - Impermanent Loss Insurance Protocol
 
 A production-ready Arbitrum Stylus smart contract that provides insurance coverage for impermanent loss (IL) experienced by liquidity providers in AMM pools. Built with Rust using the [stylus-sdk](https://github.com/OffchainLabs/stylus-sdk-rs).
